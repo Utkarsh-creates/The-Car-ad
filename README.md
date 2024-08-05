@@ -2,7 +2,7 @@
 
 ![Mercedes C63](car.png)
 
-[![Video](https://img.shields.io/badge/Animation-darkblue)](https://www.youtube.com/watch?v=s0yiMcP1hPg&ab_channel=POLYGONIC)
+[![Video](https://img.shields.io/badge/Play%20Animation-darkblue)](https://www.youtube.com/watch?v=s0yiMcP1hPg&ab_channel=POLYGONIC)
 ## Overview
 
 This project showcases a high-quality 3D advertisement for the Mercedes C63, created using Blender. The animation features stunning camera work, lighting, and animation to highlight the vehicle's design.
