@@ -16,12 +16,12 @@ This project showcases a high-quality 3D advertisement for the Mercedes C63, cre
 ## Authors
 
 - **3D Model**: The Mercedes C63 model was created by [JeanYan](https://www.jeanyanonline.com/c63). The model captures the essence and intricate details of the vehicle, making it the centerpiece of the advertisement.
-- **Camera Work, Lighting, and Animation**: The camera work, lighting, and animation were expertly crafted by [Your Name]. This includes setting up dynamic shots, creating realistic lighting scenarios, and animating the vehicle to showcase its features.
+- **Camera Work, Lighting, and Animation**: The camera work, lighting, and animation were expertly crafted by [Utkarsh MIshra](https://utkarsh-creates.github.io/). This includes setting up dynamic shots, creating realistic lighting scenarios, and animating the vehicle to showcase its features.
 
 ## Tools and Software
 
 - **Blender**: The project was entirely created and rendered using Blender, an open-source 3D creation suite.
-- **Post-Production**: [Any additional software used for post-production, if applicable].
+- **Post-Production**: [Adobe Premier Pro](https://www.adobe.com/in/products/premiere.html).
 
 ## Installation
 
@@ -37,15 +37,7 @@ Open the `.blend` file in Blender to view and edit the project.
 
 Feel free to explore the project files, modify the animations, and experiment with different lighting setups. The project is an excellent resource for learning about automotive modeling, lighting, and animation in Blender.
 
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
-- A big thank you to [Author Name] for creating the amazing Mercedes C63 model.
-- Special thanks to the Blender community for providing valuable resources and support.
-
----
-
-Feel free to modify the content as needed and add specific details like the names of the authors, image paths, and any other relevant information.
+- A big thank you to [JeanYan](https://www.jeanyanonline.com/c63) for creating the amazing Mercedes C63 model.
