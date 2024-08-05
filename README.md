@@ -1,6 +1,6 @@
 # Mercedes C63 Advertisement
 
-![Mercedes C63](path/to/your/preview/image.jpg)
+![Mercedes C63](car.png)
 
 ## Overview
 
