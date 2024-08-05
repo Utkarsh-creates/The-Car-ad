@@ -23,21 +23,6 @@ This project showcases a high-quality 3D advertisement for the Mercedes C63, cre
 - **Blender**: The project was entirely created and rendered using Blender, an open-source 3D creation suite.
 - **Post-Production**: [Adobe Premier Pro](https://www.adobe.com/in/products/premiere.html).
 
-## Installation
-
-To explore the project files, you can clone the repository and open the Blender file:
-
-```sh
-git clone https://github.com/yourusername/mercedes-c63-advertisement.git
-```
-
-Open the `.blend` file in Blender to view and edit the project.
-
-## Usage
-
-Feel free to explore the project files, modify the animations, and experiment with different lighting setups. The project is an excellent resource for learning about automotive modeling, lighting, and animation in Blender.
-
-
 ## Acknowledgments
 
 - A big thank you to [JeanYan](https://www.jeanyanonline.com/c63) for creating the amazing Mercedes C63 model.
